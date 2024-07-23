@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <kml xmlns="http://www.opengis.net/kml/2.2">
+          <Placemark>
+            <name>VR19</name>
+            <description><![CDATA[
+              <p>Latitud: 37.183944</p>
+              <p>Longitud: -6.901266739</p>
+              <p>X_utm: 686297.573</p>
+              <p>Y_utm: 4117340.865</p>
+              <p>Z_utm: 13.648940000000001</p>
+              <p>K_utm: 1.00002747</p>
+              <p>X_rlr: 819.302</p>
+              <p>Y_rlr: 850.087</p>
+              <p>Z_rlr: 16.031</p>
+              <p>Descripción: descripcion</p>
+              <p>Fecha de construcción: 2024</p>
+            ]]></description>
+            <Point>
+              <coordinates>-6.901266739,37.183944,0</coordinates>
+            </Point>
+          </Placemark>
+        </kml>
